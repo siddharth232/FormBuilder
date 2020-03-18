@@ -9,3 +9,6 @@ Features:
  3.can access public form just by link
  4.Secured private form only for particular users
  5.LogIn system
+Software Used:
+ 1.PHP
+ 2.MySql
